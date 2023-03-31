@@ -48,6 +48,7 @@ input{
 @media (max-width:386px){
     .calculator{
         width:200px;
+         margin: 1px;
         
  }
  input{
